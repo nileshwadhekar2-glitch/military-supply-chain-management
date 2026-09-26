@@ -174,3 +174,4 @@ python -m unittest -v test_app.py
 The integration suite creates a separate temporary database for every test and checks all pages, role restrictions, CSRF rejection, CRUD, low-stock and expiry alerts, repeat initialization, password hashing/change, the dispatch/delivery lifecycle, repeated dispatch protection and rollback when stock is insufficient. It does not change your demo database.
 
 Read `PBL_REPORT.md` for the submission narrative and viva preparation.
+# military-supply-chain-management
